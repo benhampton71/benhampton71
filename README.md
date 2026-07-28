@@ -1,19 +1,20 @@
-<h1 align="center">Hi, I'm Ben 👋</h1>
-<p align="center">Frontend Developer & UI Designer • IT Major, Junior</p>
-<p align="center">Graphic design · Video production · Content creation • Open for freelance work</p>
+<h1 align="center">Ben Hampton</h1>
+<p align="center">Frontend Developer & UI Designer</p>
+<p align="center">IT Major, Junior · Graphic Design · Video Production · Content Creation</p>
+<p align="center">Open for freelance work</p>
 
 <br />
 
 ### About
 
-I build clean, functional interfaces on the frontend, backed by a design background in graphic design and video production. Currently studying IT, working on freelance projects including e-commerce and marketing sites.
+Frontend development and UI design, backed by a background in graphic design and video production. Currently studying IT, working on freelance projects spanning e-commerce, marketing sites, and content production.
 
 ### Currently working on
 
-- Building a Next.js + Tailwind e-commerce platform for a wholesale cabinets, granite, and flooring company
-- Producing short-form content on human behavior and psychology
+- Next.js and Tailwind CSS e-commerce platform for a wholesale cabinets, granite, and flooring company
+- Short-form video content on human behavior and psychology
 
-### Tech I use
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -25,16 +26,16 @@ I build clean, functional interfaces on the frontend, backed by a design backgro
   <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
 </p>
 
-### GitHub stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=benhampton71&show_icons=true&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhampton71&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
-### Get in touch
+### Contact
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:benhampton1231@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/benjamin-hampton71"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
