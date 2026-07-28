@@ -7,7 +7,7 @@
 
 ### About
 
-Frontend development and UI design, backed by a background in graphic design and video production. Currently studying IT, working on freelance projects spanning e-commerce and marketing sites.
+Frontend development and UI design, backed by a background in graphic design and video production. Currently studying IT, working on freelance projects. 
 
 ### Currently working on
 
