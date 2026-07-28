@@ -1,18 +1,17 @@
 <h1 align="center">Ben Hampton</h1>
 <p align="center">Frontend Developer & UI Designer</p>
-<p align="center">IT Major, Junior · Graphic Design · Video Production · Content Creation</p>
+<p align="center">IT Major, Junior · Graphic Design · Video Production</p>
 <p align="center">Open for freelance work</p>
 
 <br />
 
 ### About
 
-Frontend development and UI design, backed by a background in graphic design and video production. Currently studying IT, working on freelance projects spanning e-commerce, marketing sites, and content production.
+Frontend development and UI design, backed by a background in graphic design and video production. Currently studying IT, working on freelance projects spanning e-commerce and marketing sites.
 
 ### Currently working on
 
 - Next.js and Tailwind CSS e-commerce platform for a wholesale cabinets, granite, and flooring company
-- Short-form video content on human behavior and psychology
 
 ### Tech Stack
 
